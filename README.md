@@ -1,8 +1,15 @@
+# Hi, I'm Siyaram 👋
+
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=GATE+CS+2026;DSA+Practice;Java+Developer&center=true&width=500)
+
+## 📊 Stats
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=siyarampatel&show_icons=true)
+
 ## 🔥 Streak
 ![GitHub Streak](https://streak-stats.demolab.com/?user=siyarampatel)
 
-## 📈 Activity Graph
+## 📈 Activity
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=siyarampatel)
 
-## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=siyarampatel&show_icons=true&cache_seconds=86400)
+## 🧠 Languages
+![Top Langs](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=siyarampatel&layout=compact)
