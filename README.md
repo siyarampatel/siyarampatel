@@ -1,6 +1,6 @@
 # Hi, I'm Siyaram 👋
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Java+Developer&center=true&width=500)
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=DSA&center=true&width=500)
 
 ## 📊 Stats
 ![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=siyarampatel&show_icons=true)
